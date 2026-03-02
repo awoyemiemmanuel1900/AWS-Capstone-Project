@@ -39,9 +39,9 @@ ___
 ## Screenshot Images
 
 1. S3 Wesite Endpoint
-![alt text](images/cloudfont-screenshot.png)
-2. CloudFront Distribution
 ![alt text](images/deployment-screenshot.png)
+2. CloudFront Distribution
+![alt text](images/cloudfont-screenshot.png)
 3. S3 Succesful File Upload
 ![alt text](images/S3-flie-upload-screenshot.png)
 ___
