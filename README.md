@@ -7,6 +7,7 @@ This project demonstrates how to deploy a static website on AWS using:
   * Amazon S3:- this serves as the object storage.
   * Amazon CloudFront:- this helps to deliver the content globally with less latency.
   * CloudFront Origin Access Control (OAC):- this helps to Secure the bucket access.
+    
 This website is deployed and fully accessible through a CloudFront distribution.
 ___
 
@@ -15,14 +16,14 @@ ___
 User → CloudFront → S3 Bucket → Static Files
 
 CloudFront handles:
- *Global caching
- *Secure access to S3
- *HTTPS delivery
+  * Global caching
+  * Secure access to S3
+  * HTTPS delivery
  
 S3 stores:
- *index.html
- *styles.css
- *script.js
+  * index.html
+  * styles.css
+  * script.js
 ___
 
 ## Deployment Steps
@@ -44,13 +45,13 @@ ___
 
 ## Tech Stack
 
- *HTML
- *CSS
- *JavaScript
- *Amazon S3
- *Amazon CloudFront
+  * HTML
+  * CSS
+  * JavaScript
+  * Amazon S3
+  * Amazon CloudFront
 ___
 
 ## Author
- Awoyemi Emmanuel
- Cloud Engineering(AWS) Capstone Project @ Schull.io
+  Awoyemi Emmanuel
+  Cloud Engineering(AWS) Capstone Project @ Schull.io
