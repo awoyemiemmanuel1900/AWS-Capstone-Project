@@ -53,6 +53,5 @@ ___
 ___
 
 ## Author
-  Awoyemi Emmanuel
-  
-  Cloud Engineering(AWS) Capstone Project @ Schull.io
+ AWOYEMI EMMANUEL.
+ Cloud Engineering(AWS) Capstone Project @ Schull.io
