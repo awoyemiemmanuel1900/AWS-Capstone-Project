@@ -13,14 +13,13 @@ ___
 User → CloudFront → S3 Bucket → Static Files
 
 CloudFront handles:
-
-  Global caching
-  Secure access to S3
-  HTTPS delivery
+ Global caching
+ Secure access to S3
+ HTTPS delivery
+ 
 S3 stores:
-
-  index.html
-  styles.css
-  script.js
+ index.html
+ styles.css
+ script.js
 ___
 
