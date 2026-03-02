@@ -1,7 +1,7 @@
 # Lunching a Static Website Using AWS S3 & CloudFront (My Capstone Project)
 
 ## Overview
-__
+
 This project demonstrates how to deploy a static website on AWS using:
 
   * Amazon S3:- this serves as the object storage.
@@ -11,7 +11,7 @@ This website is deployed and fully accessible through a CloudFront distribution.
 ___
 
 ## Architecture
-__
+
 User → CloudFront → S3 Bucket → Static Files
 
 CloudFront handles:
@@ -26,7 +26,7 @@ S3 stores:
 ___
 
 ## Deployment Steps
-__
+
  1. Created an S3 bucket
  2. Uploaded static website files
  3. Configured bucket policy for CloudFront access
@@ -36,14 +36,14 @@ __
 ___
 
 ## Screenshot Images
-__
+
 1. S3 Wesite Endpoint
 2. CloudFront Distribution
 3. S3 Succesful File Upload
 ___
 
 ## Tech Stack
-__
+
  *HTML
  *CSS
  *JavaScript
@@ -52,5 +52,5 @@ __
 ___
 
 ## Author
-Awoyemi Emmanuel
-Cloud Engineering(AWS) Capstone Project @ Schull.io
+ Awoyemi Emmanuel
+ Cloud Engineering(AWS) Capstone Project @ Schull.io
