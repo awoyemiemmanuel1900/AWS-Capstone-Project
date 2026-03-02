@@ -38,7 +38,7 @@ ___
 
 ## Screenshot Images
 
-1. S3 Wesite Endpoint
+1. S3 Website Endpoint
 ![alt text](images/deployment-screenshot.png)
 2. CloudFront Distribution
 ![alt text](images/cloudfont-screenshot.png)
